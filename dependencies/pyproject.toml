@@ -1,0 +1,14 @@
+[build - system]
+requires = ["setuptools", "wheel"]
+build - backend = "setuptools.build_meta"
+
+[project]
+name = "add_numbers"
+version = "0.1"
+description = "A simple Python project for adding numbers"
+authors = [
+    {name = "Aonan Wang", email = "aonanw334@gmail.com"}
+]
+dependencies = [
+    # 在这里添加项目的依赖包
+]

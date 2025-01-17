@@ -1,0 +1,7 @@
+-f git+git://github.com/Sugadove127/SandBox-Dify.git
+add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@eb3dde06da6aefb696702a4374ccb66c9e311287
+add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@main
+add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@1.0.0
+add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@release/tag/v0.1
+
+pandas
