@@ -1,7 +1,7 @@
--f git+git://github.com/Sugadove127/SandBox-Dify.git
-add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@9f1d0af76a287aa24f3408529815b0a8b156669e
-add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@main
-add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@1.0.0
-add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@release/tag/v0.1
+-e git+https://github.com/Sugadove127/SandBox-Dify.git#egg=add_numbers
+# add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@d56924ab0b459c5cb42c485edf894df69bcce410
+# add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@main
+# add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@1.0.0
+# add_numbers @ git+https://github.com/Sugadove127/SandBox-Dify.git@release/tag/v0.1
 
 pandas
